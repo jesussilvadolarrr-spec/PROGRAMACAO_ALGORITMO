@@ -1,0 +1,2 @@
+ALGORITMO"N"
+VAR
